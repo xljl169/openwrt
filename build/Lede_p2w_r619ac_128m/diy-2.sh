@@ -34,3 +34,41 @@ sed -i 's/"网络存储"/"存储"/g' package/lean/luci-app-usb-printer/po/zh-cn/
 sed -i 's/"Web 管理"/"Web"/g' package/lean/luci-app-webadmin/po/zh-cn/webadmin.po
 sed -i 's/"管理权"/"改密码"/g' feeds/luci/modules/luci-base/po/zh-cn/base.po
 sed -i 's/"带宽监控"/"监视"/g' feeds/luci/applications/luci-app-nlbwmon/po/zh-cn/nlbwmon.po
+
+git clone https://github.com/awesome-openwrt/luci-app-control-weburl package/luci-app-control-weburl 
+
+git clone https://github.com/awesome-openwrt/luci-app-control-webrestriction package/luci-app-control-webrestriction
+
+git clone https://github.com/awesome-openwrt/luci-app-control-timewol package/luci-app-control-timewol
+
+git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome 
+
+git clone https://github.com/lisaac/luci-app-dockerman  package/luci-app-dockerman
+
+git clone https://github.com/lisaac/luci-lib-docker package/luci-lib-docker
+
+git clone https://github.com/brvphoenix/wrtbwmon package/wrtbwmon
+
+git clone https://github.com/brvphoenix/luci-app-wrtbwmon package/luci-app-wrtbwmon
+
+git clone https://github.com/tty228/luci-app-serverchan package/luci-app-serverchan
+
+git clone https://github.com/281677160/openwrt-package/tree/master/luci-app-eqos package/luci-app-eqos
+
+git clone https://github.com/281677160/openwrt-package/tree/master/luci-app-wrtbwmon-zhcn package/luci-app-wrtbwmon-zhcn
+
+git clone https://github.com/281677160/openwrt-package/tree/master/luci-theme-argon package/luci-theme-argon
+
+git clone https://github.com/281677160/openwrt-package/tree/master/luci-theme-atmaterial package/luci-theme-atmaterial
+
+git clone https://github.com/281677160/openwrt-package/tree/master/luci-theme-edge package/ luci-theme-edge
+
+git clone https://github.com/281677160/openwrt-package/tree/master/luci-theme-infinityfreedom package/luci-theme-infinityfreedom
+
+git clone https://github.com/281677160/openwrt-package/tree/master/luci-theme-opentomcat package/luci-theme-opentomcat
+
+git clone https://github.com/281677160/openwrt-package/tree/master/luci-theme-opentopd package/luci-theme-opentomcat
+
+git clone https://github.com/281677160/openwrt-package/tree/master/luci-theme-rosy package/luci-theme-rosy
+
+git clone https://github.com/kenzok8/openwrt-packages/tree/master/luci-app-passwall package/luci-app-passwall
