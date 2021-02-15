@@ -53,22 +53,4 @@ git clone https://github.com/brvphoenix/luci-app-wrtbwmon package/luci-app-wrtbw
 
 git clone https://github.com/tty228/luci-app-serverchan package/luci-app-serverchan
 
-git clone https://github.com/281677160/openwrt-package/tree/master/luci-app-eqos package/luci-app-eqos
-
-git clone https://github.com/281677160/openwrt-package/tree/master/luci-app-wrtbwmon-zhcn package/luci-app-wrtbwmon-zhcn
-
-git clone https://github.com/281677160/openwrt-package/tree/master/luci-theme-argon package/luci-theme-argon
-
-git clone https://github.com/281677160/openwrt-package/tree/master/luci-theme-atmaterial package/luci-theme-atmaterial
-
-git clone https://github.com/281677160/openwrt-package/tree/master/luci-theme-edge package/ luci-theme-edge
-
-git clone https://github.com/281677160/openwrt-package/tree/master/luci-theme-infinityfreedom package/luci-theme-infinityfreedom
-
-git clone https://github.com/281677160/openwrt-package/tree/master/luci-theme-opentomcat package/luci-theme-opentomcat
-
-git clone https://github.com/281677160/openwrt-package/tree/master/luci-theme-opentopd package/luci-theme-opentomcat
-
-git clone https://github.com/281677160/openwrt-package/tree/master/luci-theme-rosy package/luci-theme-rosy
-
 git clone https://github.com/kenzok8/openwrt-packages/tree/master/luci-app-passwall package/luci-app-passwall
