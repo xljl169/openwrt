@@ -53,6 +53,4 @@ git clone https://github.com/brvphoenix/luci-app-wrtbwmon package/luci-app-wrtbw
 
 git clone https://github.com/tty228/luci-app-serverchan package/luci-app-serverchan
 
-git clone https://github.com/xiaorouji/openwrt-passwall package/luci-app-passwall
-
 git clone https://github.com/awesome-openwrt/luci-app-openclash package/luci-app-openclash
